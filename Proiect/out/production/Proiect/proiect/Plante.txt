@@ -1,0 +1,6 @@
+Denumire,Cantitate,Pret
+Planta1/86/20
+Planta2/197/10
+Planta3/199/30
+Planta4/55/30
+Planta5/10/200

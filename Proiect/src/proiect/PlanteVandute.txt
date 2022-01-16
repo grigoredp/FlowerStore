@@ -1,0 +1,7 @@
+2022.01.17.00.56.40 - Vanzare: Planta1 - Cantitate vanduta: 1 - Profit: 20
+2022.01.17.01.01.25 - Vanzare: Planta2 - Cantitate vanduta: 1 - Profit: 10
+2022.01.17.01.08.48 - Vanzare: Planta3 - Cantitate vanduta: 1 - Profit: 30
+2022.01.20.12.54.53 - Vanzare: Planta4 - Cantitate vanduta: 1 - Profit: 30
+2022.01.20.12.55.00 - Vanzare: Planta4 - Cantitate vanduta: 1 - Profit: 30
+2022.01.20.14.17.23 - Vanzare: Planta4 - Cantitate vanduta: 6 - Profit: 180
+2022.01.20.14.17.24 - Vanzare: Planta4 - Cantitate vanduta: 6 - Profit: 180
